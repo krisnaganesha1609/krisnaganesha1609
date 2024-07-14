@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisnaganesha1609" alt="krisnaganesha1609" /></a> </p>
 
-- 🔭 Currently working on teams project named [Progressie Academy Platform](github.com/SymbioSix)
+- 🔭 Currently working on teams project named [Progressie Academy Platform](https://github.com/SymbioSix)
 
 - 🌱 I’m currently learning **Go, Next.js, Flutter, OAuth, Postgres, JWT**
 
-- 👨‍💻 All of my projects are available at [gedekrisna.vercel.app](gedekrisna.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gedekrisna.vercel.app)
 
-- 📝 I did write articles on [technoartes-adinternship.blogspot.com](technoartes-adinternship.blogspot.com)
+- 📝 I did write articles on [Blogspot](https://technoartes-adinternship.blogspot.com)
 
 - 💬 Little I do know **Flutter, Go, Mobile Devs, and Penetration Test**
 
